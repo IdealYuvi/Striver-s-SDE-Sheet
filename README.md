@@ -1,7 +1,7 @@
 # Striver-s-SDE-Sheet
 Here you can find a jupyter notebook with Striver's SDE Sheet problems for revision on a daily basis.
 
-**Striver's SDE Sheet:**
+**Striver's SDE Problems:**
 1. Arrays
 2. Arrays Part 2
 3. Arrays Part 3
