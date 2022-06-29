@@ -1,7 +1,7 @@
 # Striver-s-SDE-Sheet
 Here you can find a jupyter notebook with Striver's SDE Sheet problems for revision on a daily basis.
 
-**Striver's SDE Problems:**
+**Striver's SDE Problems Part 1:**
 1. Arrays
 2. Arrays Part 2
 3. Arrays Part 3
@@ -14,7 +14,10 @@ Here you can find a jupyter notebook with Striver's SDE Sheet problems for revis
 10. Recursion and Backtracking
 11. Binary Search
 12. Trie
-13. Stack and Queue
-14. Stack and Queue Part 2
-15. Graph
-16. Graph Part 2
+
+**Striver's SDE Problems Part 2:**
+1. Stack and Queue
+2. Stack and Queue Part 2
+3. Graph
+4. Graph Part 2
+5. Binary Tree
